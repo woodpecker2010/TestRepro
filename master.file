@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 origin: TEST_BRANCH
+=======
+origin: master
+>>>>>>> master
